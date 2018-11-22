@@ -1,0 +1,16 @@
+{
+	"@context": "",
+	"version": "0.0.0",
+	"type": "action",
+	"name": "Weaviate demo Test instance Actions",
+	"maintainer": "yourfriends@weaviate.com",
+	"classes": [{
+		"class": "TestClass2",
+		"description": "Test class 2",
+		"properties": [{
+			"name": "name",
+			"@dataType": ["string"],
+			"description": "Name of the test class"
+			}]
+		}]
+}

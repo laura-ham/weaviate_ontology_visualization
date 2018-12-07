@@ -5,6 +5,9 @@ Uses PyGraphviz to visualize a Weaviate schema (ontology)
 
 Paste your ontology schemas in the folders `weaviate_data`: `things` and `actions`, with the filenames `schema.json` in each folder.
 
+_Note: only test it with Python3_
+
+
 Generate visualization:
 `$ python viz_schemas.py  | dot -Tpdf > schema.pdf`
 

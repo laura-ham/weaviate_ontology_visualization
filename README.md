@@ -1,3 +1,6 @@
+**This repository is archived because Weaviate software is updated. Please check [Weaviate](https://github.com/semi-technologies/weaviate) for more details.**
+
+
 # weaviate_ontology_visualization
 Uses PyGraphviz to visualize a Weaviate schema (ontology)
 
